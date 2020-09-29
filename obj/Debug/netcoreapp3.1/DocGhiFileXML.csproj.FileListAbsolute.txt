@@ -1,0 +1,13 @@
+D:\baitap\DocGhiFileXML\bin\Debug\netcoreapp3.1\DocGhiFileXML.exe
+D:\baitap\DocGhiFileXML\bin\Debug\netcoreapp3.1\DocGhiFileXML.deps.json
+D:\baitap\DocGhiFileXML\bin\Debug\netcoreapp3.1\DocGhiFileXML.runtimeconfig.json
+D:\baitap\DocGhiFileXML\bin\Debug\netcoreapp3.1\DocGhiFileXML.runtimeconfig.dev.json
+D:\baitap\DocGhiFileXML\bin\Debug\netcoreapp3.1\DocGhiFileXML.dll
+D:\baitap\DocGhiFileXML\bin\Debug\netcoreapp3.1\DocGhiFileXML.pdb
+D:\baitap\DocGhiFileXML\obj\Debug\netcoreapp3.1\DocGhiFileXML.csprojAssemblyReference.cache
+D:\baitap\DocGhiFileXML\obj\Debug\netcoreapp3.1\DocGhiFileXML.AssemblyInfoInputs.cache
+D:\baitap\DocGhiFileXML\obj\Debug\netcoreapp3.1\DocGhiFileXML.AssemblyInfo.cs
+D:\baitap\DocGhiFileXML\obj\Debug\netcoreapp3.1\DocGhiFileXML.csproj.CoreCompileInputs.cache
+D:\baitap\DocGhiFileXML\obj\Debug\netcoreapp3.1\DocGhiFileXML.dll
+D:\baitap\DocGhiFileXML\obj\Debug\netcoreapp3.1\DocGhiFileXML.pdb
+D:\baitap\DocGhiFileXML\obj\Debug\netcoreapp3.1\DocGhiFileXML.genruntimeconfig.cache
